@@ -1,0 +1,18 @@
+{
+  "name": "devopsb951",
+  "version": "1.0.0",
+  "description": "DevOps part B9.5.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenArzumanyan/devops-b951.git"
+  },
+  "author": "Bezgin Sergei",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
